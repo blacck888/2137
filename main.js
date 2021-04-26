@@ -1,4 +1,4 @@
-const VERSION = 'v1.15.4'
+const VERSION = 'v2.0'
 
 var Elements = {
 	display: undefined,
